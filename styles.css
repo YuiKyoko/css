@@ -1,0 +1,68 @@
+body{
+	background-image: url("image/noche.jpg");
+	font-family: Arial, Helvetica, Verdana;
+	color: white;
+}
+h1{
+
+	border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background-image: url(image/estrellas.jpg);
+    margin-left: 12em;
+    margin-right: 10em;
+    margin-bottom: 4em;
+    font-size: 40px;
+
+}
+ h2 {
+
+	border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    background-color: #155043;
+    margin-left: 20px;
+    margin-right: 10px;
+
+}
+.divine  {
+	background:#155043;
+    padding: 5px;
+    margin-left: 20px;
+    padding-bottom: 30px;
+    border-spacing: 10px;
+    border-bottom: 10px;
+
+}
+.intro{
+	background:#155043;
+    padding: 10px;
+    margin-right: 20px;
+
+}
+.intro h3{
+
+	background:#7AC4B4;
+    padding: 5px;
+    margin-left: 20px;
+}
+h3{
+
+	color:#0B615E;
+}
+
+ul {
+    background:#155043;
+    padding: 10px;
+    margin-right: 50px;
+}
+
+ul li {
+    background:#7AC4B4;
+    padding: 5px;
+    margin-left: 20px;
+}
